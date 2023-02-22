@@ -10,6 +10,8 @@
 
 AshCorr	=	Host
 Xantam	=	Host
+_hot dyke_=	Host
+hot_dyke=	Host
  
 adamsogm = Council Member
 baiomu = Council Member
